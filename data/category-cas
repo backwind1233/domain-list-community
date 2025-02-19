@@ -14,7 +14,6 @@ include:entrust
 include:gandi
 include:globalsign
 include:godaddy
-include:google-trust-services
 include:hinet-eca
 include:hongkongpost
 include:identrust

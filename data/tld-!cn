@@ -17,7 +17,6 @@
 # tv  # Tuvalu
 # xn--j6w193g  # 香港 Hong Kong SAR, People's Republic of China
 
-include:google-registry-tld
 
 # Used by U.S. federal government
 gov

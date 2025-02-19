@@ -1,5 +1,4 @@
 include:anthropic
-include:google-gemini
 include:groq
 include:openai
 include:perplexity
@@ -11,9 +10,7 @@ include:cursor
 clipdrop.co
 jasper.ai
 
-# NotebookLM
-notebooklm.google
-notebooklm.google.com
+
 
 dify.ai
 gateway.ai.cloudflare.com
